@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MigrationDataBase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MigrationDataBase_jar</output-path>
+    <root id="archive" name="MigrationDataBase.jar">
+      <element id="module-output" name="MigrationDataBase" />
+    </root>
+  </artifact>
+</component>
