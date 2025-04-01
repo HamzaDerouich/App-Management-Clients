@@ -1,5 +1,4 @@
 # 📊 CSV Client Manager
-# 📊 CSV Client Manager
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
