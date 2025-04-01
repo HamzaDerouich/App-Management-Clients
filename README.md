@@ -1,81 +1,23 @@
-📂 CSV Client Manager - Java Swing Application
-A Java Swing application for managing client data in CSV files with CRUD operations, filtering, and statistics.
+# 📊 CSV Client Manager
+# 📊 CSV Client Manager
 
-🚀 Features
-✔ CRUD Operations (Create, Read, Update, Delete)
-✔ CSV Import/Export (Load and save client data)
-✔ Advanced Filtering (Search by column with operators: contains, equals, etc.)
-✔ Client Statistics (Group/country distribution)
-✔ User-Friendly UI (Toolbar, context menu, status bar)
-✔ Form Validation (Ensures data integrity)
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![Swing](https://img.shields.io/badge/GUI-Swing-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-🛠️ Technologies
-Java 8+ (Core logic)
+A Java Swing application for managing client data with CSV import/export functionality, featuring CRUD operations and data analysis tools.
 
-Swing (Graphical User Interface)
+## ✨ Features
+- **Full CRUD Operations** (Create, Read, Update, Delete)
+- **CSV Import/Export** with proper formatting
+- **Advanced Filtering** (by column/value)
+- **Data Statistics** (group/country distribution)
+- **User-Friendly Interface** with context menus
+- **Input Validation** for data integrity
 
-Maven (Dependency management - if applicable)
-
-📦 Installation & Usage
-Prerequisites
-Java JRE 8 or later installed (Download Java)
-
-Running the Application
-Download the latest JAR from Releases (or build it yourself).
-
-Run the JAR file with:
-
-bash
-Copy
-java -jar CSVClientManager.jar
-Building from Source
-Clone the repository:
-
-bash
-Copy
-git clone https://github.com/yourusername/csv-client-manager.git
-Open in IntelliJ IDEA and build the project (Build > Build Artifacts).
-
-Generated JAR will be in /out/artifacts/.
-
-📷 Screenshots
-Main Screen	Filter Dialog
-Main Application Window	Filter Clients by Criteria
-📝 Notes
-CSV Format: Ensure files follow the structure:
-
-Copy
-ID,First Name,Last Name,Company Name,Email,Address,Country,Phone,Client Group ID,Creation Date,Notes
-Compatibility: Works on Windows, macOS, and Linux.
-
-🤝 Contributing
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature).
-
-Commit changes (git commit -m "Add new feature").
-
-Push to the branch (git push origin feature/your-feature).
-
-Open a Pull Request.
-
-📜 License
-This project is licensed under MIT License.
-
-📬 Contact
-For questions or feedback:
-📧 Email: your.email@example.com
-🌐 GitHub: @yourusername
-
-🚀 Happy Coding! 🚀
-
-📌 Place this file in your repository as README.md.
-(Replace yourusername, screenshots, and contact info with your actual details.)
-
-This README provides:
-✅ Clear setup instructions
-✅ Visual previews (add real screenshots later)
-✅ Contribution guidelines
-✅ Licensing & contact info
-
-Would you like me to adjust anything? 😊
+## 🚀 Quick Start
+1. **Requirements**: Java 17+
+2. **Download**: Get the latest JAR from [Releases](#)
+3. **Run**:
+   ```bash
+   java -jar CSVClientManager.jar
